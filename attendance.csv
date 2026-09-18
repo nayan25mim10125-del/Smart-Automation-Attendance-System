@@ -1,0 +1,15 @@
+student_id,name,date,time,room,status
+101,Nayan,2026-08-01,21:56,A101,Present
+101,Nayan,2026-08-01,22:05,A101,Present
+102,Rahul,2026-08-01,22:05,A101,Present
+103,Aman,2026-08-01,22:05,A101,Present
+104,Priya,2026-08-01,22:05,A101,Present
+105,Rohit,2026-08-01,22:05,A101,Present
+101,Nayan,2026-08-05,12:08,A101,Present
+101,Nayan,2026-08-05,13:14,A101,Present
+101,Nayan,2026-08-05,13:17,A101,Present
+102,Rahul,2026-08-05,13:17,A101,Present
+103,Aman,2026-08-26,22:38,A101,Present
+104,Priya,2026-08-26,22:38,A101,Present
+105,Rohit,2026-08-26,22:38,A101,Present
+101,Nayan,2026-08-31,12:16,A101,Present
